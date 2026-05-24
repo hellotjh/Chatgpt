@@ -1,0 +1,4 @@
+# Python 3.13.5
+streamlit==1.57.0
+langchain-classic==1.0.7
+langchain-openai==1.2.2
